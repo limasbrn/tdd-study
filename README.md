@@ -15,4 +15,3 @@ Link do vídeo no Youtube: https://www.youtube.com/watch?v=hwgy0l7_XRE
 - Delete o diretório `.git`;
 - Instale as dependências: `yarn` (ou `npm i`);
 - Execute os testes no Watch mode do Jest: `yarn test:watch (ou npm run test:watch)`;
-- Escreva os testes \o/
