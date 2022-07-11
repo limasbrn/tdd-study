@@ -4,7 +4,7 @@ Test Driven Development Studies.
 
 ### Instructions 
 
-Info do criador do boilerplate e link para conferir o arquivo origina:
+Info do criador do boilerplate e link para conferir o arquivo original:
 
 Repositório: `git@github.com:Roger-Melo/tdd-playground.git`;
 

@@ -16,4 +16,4 @@ const getFactorial = number => {
  return number * getFactorial(number - 1)
 }
 
-export default getFactorial0
+export default getFactorial
